@@ -1,0 +1,31 @@
+body {
+	background-color: steelblue;
+}
+
+.container {
+	background-color: #ffffff;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	height: 100%;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+h2 {
+	text-align: center;
+}
+.boxes {
+	margin: 10px auto;
+}
+
+.content {
+	width: 50%;
+	margin: 10px auto;
+}
+
+.content img {
+	margin-left: 210px;
+}
